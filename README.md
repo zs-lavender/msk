@@ -20,11 +20,16 @@
 
 ### 注意：文件中的绝对路径与ip要修改为本地路径与ip
 
-computer_display模块：
+computer_display模块：在电脑上运行
+
 gui.py中修改文件路径为本地文件路径，test.py和testtry2.py中ip和port修改为第一个树莓派对应信息
 
-rasp1模块：
+rasp1模块：在第一个树莓派上运行
+
 get_rasp_gps.py和voice_communicate.py中ip与port修改为第二个树莓派信息，rasp_send.py和rasp.send2.py中ip和port修改为电脑对应信息
+
+rasp2模块：在第二个树莓派上运行
+rasp_send.py和voice_communicate.py中ip和port修改为第一个树莓派信息
 
 
 
