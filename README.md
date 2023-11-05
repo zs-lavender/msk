@@ -36,6 +36,18 @@ rasp_send.py和rasp.send2.py中ip和port修改为电脑对应信息
 
 rasp_send.py和voice_communicate.py中ip和port修改为第一个树莓派信息
 
+## 贡献指南
+
+北京邮电大学21级学生
+
+张硕
+
+毛雨凡
+
+刘计策
+
+董保国
+
 ## 项目展示
 [码赛客](https://www.bilibili.com/video/BV1oQ4y1J7Z8/?spm_id_from=333.999.0.0&vd_source=22ecf81870978136229df49ab531477a)
 
