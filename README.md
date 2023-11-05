@@ -20,6 +20,11 @@
 
 ### 注意：文件中的绝对路径与ip要修改为本地路径与ip
 
+computer_display模块：
+gui.py中修改文件路径为本地文件路径，test.py和testtry2.py中ip和port修改为第一个树莓派对应信息
+
+
+
 
 
 
